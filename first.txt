@@ -1,1 +1,3 @@
 Git Check
+.git add
+.git commit
